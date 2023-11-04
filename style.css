@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+    color:white;
+    font-family:calibri, helvetica;
+}
+nav a{
+    color:white !important;
+    text-decoration:none;
+}
+nav{
+    background-color:purple;
+    color:white;
+}
+a{
+    color:aquamarine;
+    text-decoration:none;
+}
+a:visited{
+    color:aqua
+}
+a:hover{
+    color:blueviolet;
+}
